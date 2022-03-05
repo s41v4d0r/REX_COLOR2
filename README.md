@@ -1,1 +1,1 @@
-# REX_COLOR2
+# color-trex
